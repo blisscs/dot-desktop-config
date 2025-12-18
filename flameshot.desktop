@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Flameshot (Wayland)
+Comment=Take screenshots with Flameshot on Hyprland
+Exec=env QT_QPA_PLATFORM=wayland XDG_CURRENT_DESKTOP=gnome flameshot gui
+Icon=flameshot
+Terminal=false
+Categories=Utility;Graphics;
+StartupNotify=false
