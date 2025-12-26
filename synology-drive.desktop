@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Synology Drive
+Comment=Launch Synology Drive on Hyprland
+Exec=env QT_QPA_PLATFORM=xcb synology-drive
+Icon=synology-drive
+Terminal=false
+Categories=Network;FileManager;
+StartupNotify=false
