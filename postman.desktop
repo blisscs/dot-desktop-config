@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Postman
+Comment=Postman API Development Environment
+Exec=/home/dev/.local/lib/Postman/Postman
+Icon=/home/dev/.local/lib/Postman/app/resources/app/assets/icon.png
+Terminal=false
+Categories=Development;Network;
+StartupNotify=false
